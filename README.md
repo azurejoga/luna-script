@@ -5,7 +5,7 @@
 Luna Script is an all-encompassing Python application, powered by the wxPython library, designed with meticulous care to simplify the version management and download process for various applications and games. Its sophisticated yet user-friendly interface empowers users to effortlessly navigate through different versions, providing a seamless and visually appealing experience.
 
 ## Key Features
-
+   
 ### 1. **Intuitive User Interface**
 
    Luna Script boasts a visually stunning and intuitive graphical interface, courtesy of the wxPython library. The design prioritizes user experience, making it easy for individuals of all technical levels to interact seamlessly with the application.
@@ -46,14 +46,14 @@ Luna Script is an all-encompassing Python application, powered by the wxPython l
 
    ```pip
    pip install wxpython
-pip install requests
+   pip install requests
    ```
 
 3. **Run the Application:**
 
    ```cmd
    cd luna-script
-   python script.py
+   python luna-script.py
    ```
 
 ## How to Use
@@ -80,7 +80,7 @@ We want to add support for
 * extraction rar, 7z etc...
 * Description, tags, among other JSON parameters to improve the visibility of installed applications
 * Add the possibility of personalized instructions, such as automatically executing .bat, .exe files and others
-Then  
+Then
 Contributions to Luna Script are highly encouraged! Whether you are contributing code, reporting issues, or suggesting improvements, your input is valuable. Luna Script is licensed under the GPL License, providing a foundation for collaborative development.
 
 Feel free to explore, contribute, and customize Luna Script to meet your specific requirements!
